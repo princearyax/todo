@@ -1,0 +1,3 @@
+add  nodemon as dependency?
+princearyax
+npm i dotenv@latest --save-exact
